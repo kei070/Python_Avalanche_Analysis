@@ -1,4 +1,4 @@
-Avalanche Analysis
+# Avalanche Analysis
 
 These script were written for the data analysis supporting the paper "Predicting avalanche risk in northern Norway from expert risk assessments using statistical models".
 
