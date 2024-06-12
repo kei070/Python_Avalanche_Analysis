@@ -4,4 +4,4 @@ These script were written for the data analysis supporting the paper "Predicting
 
 To make the scripts work on your system in each individual script the paths must be adjusted.
 
-Note that the repository does not contain all the scripts used in the analysis.
+The scripts in ts_KUE are either copied or derived from the metocean-api (https://github.com/MET-OM/metocean-api).
